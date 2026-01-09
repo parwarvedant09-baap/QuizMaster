@@ -54,7 +54,7 @@ Today-Pay/
 ---
 
 ## 👨‍💻 Developer
-**Ayush Jaiswal**  
+**Vedant Parwar**  
 Final Year Computer Science Undergraduate  
 📍 Galgotias University  
 
